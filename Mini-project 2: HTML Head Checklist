@@ -1,0 +1,65 @@
+<!-- MINI-PROJECT: Mini-project 2: HTML Head Checklist
+Yêu cầu: Tạo repo có trang hướng dẫn cấu hình head: charset, viewport, title, link CSS, script JS, bình luận và thụt dòng; có README và Pages.
+Yêu cầu bắt buộc bổ sung: Bắt buộc bổ sung ảnh chụp thiết kế UI các page, phân vùng file HTML theo ảnh thiết kế, tổ chức dự án bài bản trên GitHub cá nhân và bật GitHub Pages để mở khóa bài tiếp theo.
+
+Cấu trúc repo đề xuất:
+- index.html
+- css/style.css
+- js/script.js
+- assets/
+- README.md
+
+TODO: Tự viết website hoàn chỉnh, không nộp một file rỗng hoặc code copy sẵn.
+-->
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini-project 2: HTML Head Checklist</title>
+</head>
+<body>
+ 
+     <!-- Header -->
+    <header>
+        <h1>HTML Head Checklist</h1>
+        <p>Hướng dẫn cấu hình phần head trong HTML.</p>
+    </header>
+
+    <!-- Nội dung chính -->
+    <main>
+        <section>
+            <h2>Các thành phần cần có</h2>
+
+            <ul>
+                <li>Meta Charset</li>
+                <li>Meta Viewport</li>
+                <li>Title</li>
+                <li>CSS Link</li>
+                <li>JavaScript</li>
+                <li>Comment</li>
+                <li>Indentation</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Kiểm tra tài nguyên</h2>
+
+            <p>
+                Nhấn F12 để mở DevTools.
+                Kiểm tra tab Console nếu CSS hoặc JS không hoạt động.
+            </p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Mini Project 2 - HTML Head Checklist</p>
+    </footer>
+
+    <!-- Liên kết JavaScript -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
